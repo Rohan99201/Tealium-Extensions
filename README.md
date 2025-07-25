@@ -89,21 +89,26 @@ This repository contains all JavaScript extensions configured in **Tealium** for
 ---
 
 <details> <summary>✅ Tools Used</summary>
-Tealium iQ
 
-Omnibug
+- Tealium iQ
 
-Analytics Debugger
+- Omnibug
 
-Chrome DevTools
+- Analytics Debugger
+
+- Chrome DevTools
 
 </details>
+
+---
+
 <details> <summary>📌 Notes</summary>
-Implement only the events supported by each website.
 
-Always validate in Dev before publishing to Prod.
+- Implement only the events supported by each website.
 
-Maintain consistent naming for variables and selectors.
+- Always validate in Dev before publishing to Prod.
+
+- Maintain consistent naming for variables and selectors.
 
 </details> ```
 
