@@ -70,5 +70,16 @@ Once Dev testing is successful:
 
 ---
 
-## 📁 Directory Structure
+## ✅ Tools Used
 
+- Tealium iQ
+- Omnibug (Browser Plugin)
+- Analytics Debugger
+- Chrome DevTools
+
+---
+
+## 📌 Notes
+
+- Not all events are applicable to every school; implement based on structure.
+- Always validate changes in **Dev** before publishing to **Prod**.
