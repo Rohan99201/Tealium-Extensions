@@ -10,7 +10,7 @@ This repository contains all JavaScript extensions configured in **Tealium** for
 ### Event Phases
 
 - **Phase 1** – Core Events  
-  _(e.g., Page Views, Scroll, Form Tracking)_
+  _(e.g., Page Views, Scroll, Form Tracking, Calendly, Survey Forms)_
 
 - **Phase 2** – Advanced/Custom Events  
   _(e.g., Accordians, BreadCrumb, Click To Call, Video Tracking, CTA Interactions)_
