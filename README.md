@@ -110,5 +110,7 @@ This repository contains all JavaScript extensions configured in **Tealium** for
 
 - Maintain consistent naming for variables and selectors.
 
-</details> ```
+</details>
+
+---
 
